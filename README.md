@@ -12,7 +12,6 @@
  - chatgpt.com
  - copilot.microsoft.com
  - rutracker.org
- - hub.docker.com, registry.docker.io, docker.io
 
 # Внимание
 
